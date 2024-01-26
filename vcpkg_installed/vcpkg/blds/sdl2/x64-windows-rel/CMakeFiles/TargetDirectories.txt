@@ -1,0 +1,9 @@
+Z:/cplusplus/FirstProject/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/CMakeFiles/sdl_headers_copy.dir
+Z:/cplusplus/FirstProject/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/CMakeFiles/SDL2main.dir
+Z:/cplusplus/FirstProject/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/CMakeFiles/SDL2.dir
+Z:/cplusplus/FirstProject/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/CMakeFiles/uninstall.dir
+Z:/cplusplus/FirstProject/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/CMakeFiles/edit_cache.dir
+Z:/cplusplus/FirstProject/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+Z:/cplusplus/FirstProject/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/CMakeFiles/list_install_components.dir
+Z:/cplusplus/FirstProject/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/CMakeFiles/install.dir
+Z:/cplusplus/FirstProject/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/CMakeFiles/install/local.dir
