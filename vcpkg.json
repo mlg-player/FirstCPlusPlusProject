@@ -5,6 +5,12 @@
   "dependencies": [
     {
       "name": "sdl2"
+    },
+    {
+      "name": "nanosvg"
+    },
+    {
+      "name": "jsoncpp"
     }
   ]
 }

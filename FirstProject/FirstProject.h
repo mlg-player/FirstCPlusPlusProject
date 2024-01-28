@@ -8,5 +8,10 @@
 #include <vector>
 #include <regex>
 #include <string>
+#include <filesystem>
+#include <SDL.h>
+#define NANOSVG_ALL_COLOR_KEYWORDS	// Include full list of color keywords.
+#define NANOSVG_IMPLEMENTATION		// Expands implementation
 
+#include "ChessItem/ChessItem.h"
 // TODO: Reference additional headers your program requires here.
